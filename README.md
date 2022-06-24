@@ -2,4 +2,7 @@
 
 ## 抖音签名算法学习
 抖音网页版signature、x-bogus、msToken算法。
+
 学习websockets协议，获取直播弹幕
+
+交流学习可加微：varfind
